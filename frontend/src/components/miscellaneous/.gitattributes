@@ -1,0 +1,4 @@
+# Enforce LF line endings for specific file types
+*.js text eol=lf
+*.json text eol=lf
+*.lock text eol=lf
